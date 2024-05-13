@@ -96,3 +96,9 @@ Lastly, I would like to share an analogy that I came up with during a tech talk 
 
 Feel free to explore each project and delve deeper into the fascinating world of image generation and stable diffusion techniques!
 
+The images were taken from the following video and articles: 
+
+- https://stable-diffusion-art.com/how-stable-diffusion-work/ 
+- https://jalammar.github.io/illustrated-stable-diffusion/ 
+- https://www.youtube.com/watch?v=sFztPP9qPRc 
+
